@@ -37,5 +37,3 @@ I am Reazul Islam Reaz, a passionate MERN Stack Developer and a Political Scienc
 - 📬 Contact form (optional integration with Formspree / EmailJS)
 
 ---
-
-## 🧩 Folder Structure
