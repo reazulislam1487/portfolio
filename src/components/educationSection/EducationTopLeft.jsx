@@ -1,14 +1,16 @@
 const EducationsTopLeft = () => {
   return (
-    <div className="flex flex-col gap-6 ">
-      <h3 className="md:text-3xl sm:text-2xl text-orange">
+    <div className="flex flex-col gap-4">
+      <h3 className="text-2xl sm:text-3xl font-semibold text-orange">
         BSS in Political Science
       </h3>
-      <p className="md:text-2xl sm:text-xl text-orange">
+      <p className="text-xl sm:text-2xl font-medium text-orange">
         Alfadanga Govt. College
       </p>
-      <p className=" text-textSecondary">Alfadanga, Faridpur, Bangladesh</p>
-      <p className=" text-textSecondary">2021 – Ongoing</p>
+      <p className="text-base text-textSecondary">
+        Alfadanga, Faridpur, Bangladesh
+      </p>
+      <p className="text-base text-textSecondary">2021 – Ongoing</p>
     </div>
   );
 };
